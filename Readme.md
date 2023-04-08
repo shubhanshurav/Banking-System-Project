@@ -1,6 +1,6 @@
 # Banking System Project
 
-### How it works
+### In this project you can -
 
 -  Open an Account
 -  Balance Enquiry
